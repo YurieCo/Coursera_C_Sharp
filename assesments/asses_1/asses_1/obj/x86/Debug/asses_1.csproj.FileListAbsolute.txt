@@ -1,0 +1,4 @@
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_1\asses_1\bin\Debug\asses_1.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_1\asses_1\bin\Debug\asses_1.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_1\asses_1\obj\x86\Debug\asses_1.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_1\asses_1\obj\x86\Debug\asses_1.pdb
