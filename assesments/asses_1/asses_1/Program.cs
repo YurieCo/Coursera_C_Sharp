@@ -17,6 +17,8 @@ namespace asses_1
         {
             //welcome message
             Console.WriteLine("Welcome! This app calculates your average gold-collecting performance");
+            Console.WriteLine("-------------------------------------------------");
+            Console.WriteLine();
             // Prompt 
             Console.Write("Please provide total gold collected in the game: ");
             int gold = int.Parse(Console.ReadLine());
@@ -25,17 +27,15 @@ namespace asses_1
             Console.Write("Please provide total number of hours played: ");
             float hours = float.Parse(Console.ReadLine());
             //Convert the hours to minutes
-            int totalMinsPlayed = hours * 60;
+            float totalMinsPlayed = hours * 60;
             //Calculate the gold per minute statistic
             float goldperMin = gold / totalMinsPlayed;
             //Print out the gold, hours played, and gold per minute statistics
             Console.WriteLine();
             Console.WriteLine("-------------------------------------------------");
             Console.WriteLine("gold gathered: " + gold);
-            Console.WriteLine("hours played: " + gold);
-            Console.WriteLine("gold per minute: " + totalMinsPlayed);
-            
-
+            Console.WriteLine("hours played: " + hours);
+            Console.WriteLine("gold per minute: " + goldperMin);
         }
     }
 }
