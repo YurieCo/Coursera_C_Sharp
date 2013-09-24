@@ -16,6 +16,7 @@ namespace ProgrammingAssignment2
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+
         //Windwos dimensions as constants
         const int WINDOW_WIDTH = 800;
         const int WINDOW_HEIGHT = 600;
@@ -29,6 +30,7 @@ namespace ProgrammingAssignment2
         Texture2D mysprite2;
         Texture2D mysprite3;
         Texture2D mysprite4;
+
         // used to handle generating random values
         Random rand = new Random();
         const int CHANGE_DELAY_TIME = 1000;
@@ -55,6 +57,7 @@ namespace ProgrammingAssignment2
         /// </summary>
         protected override void Initialize()
         {
+
             // TODO: Add your initialization logic here
 
             base.Initialize();
@@ -66,6 +69,7 @@ namespace ProgrammingAssignment2
         /// </summary>
         protected override void LoadContent()
         {
+
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
@@ -75,6 +79,7 @@ namespace ProgrammingAssignment2
             mysprite2 = Content.Load<Texture2D>("eleph");
             mysprite3 = Content.Load<Texture2D>("star");
             mysprite4 = Content.Load<Texture2D>("surprise");
+
             // STUDENTS: set the currentSprite variable to one of your sprite variables
             currentSprite = mysprite0;
         }
