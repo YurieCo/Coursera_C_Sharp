@@ -105,42 +105,44 @@ namespace ProgrammingAssignment2
 
                 // STUDENTS: uncomment the code below and make it generate a random number between 0 and 4
                 // using the rand field I provided
-                //int spriteNumber = ???
+                int spriteNumber = rand.Next(0, 5);
 
                 // sets current sprite
                 // STUDENTS: uncomment the lines below and change sprite0, sprite1, sprite2, sprite 3, and sprite 4
                 //      to the five different names of your sprite variables
-                //if (spriteNumber == 0)
-                //{
-                //    currentSprite = sprite0;
-                //}
-                //else if (spriteNumber == 1)
-                //{
-                //    currentSprite = sprite1;
-                //}
-                //else if (spriteNumber == 2)
-                //{
-                //    currentSprite = sprite2;
-                //}
-                //else if (spriteNumber == 3)
-                //{
-                //    currentSprite = sprite3;
-                //}
-                //else if (spriteNumber == 4)
-                //{
-                //    currentSprite = sprite4;
-                //}
+                if (spriteNumber == 0)
+                {
+                    currentSprite = mysprite0;
+                }
+                else if (spriteNumber == 1)
+                {
+                    currentSprite = mysprite1;
+                }
+                else if (spriteNumber == 2)
+                {
+                    currentSprite = mysprite2;
+                }
+                else if (spriteNumber == 3)
+                {
+                    currentSprite = mysprite3;
+                }
+                else if (spriteNumber == 4)
+                {
+                    currentSprite = mysprite4;
+                }
 
                 // STUDENTS: uncomment the line below to set drawRectangle.X to a random number between 0 and the preferred backbuffer width - the width of the current sprite 
                 // using the rand field I provided
-                //drawRectangle.X = ???;
+                drawRectangle.X = rand.Next(0, (graphics.PreferredBackBufferWidth - currentSprite.Width));
 
                 // STUDENTS: uncomment the line below to set drawRectangle.Y to a random number between 0 and the preferred backbuffer height - the height of the current sprite
                 // using the rand field I provided
-                //drawRectangle.Y = ???;
+                drawRectangle.Y = rand.Next(0, (graphics.PreferredBackBufferHeight - currentSprite.Height));
 
                 // STUDENTS: set the drawRectangle.Width and drawRectangle.Height to match the width and height of currentSprite
-                drawRectangle = new Rectangle(100,100, currentSprite.Width, currentSprite.Height);
+                //drawRectangle = new Rectangle(100,100, currentSprite.Width, currentSprite.Height);
+                drawRectangle.Width = currentSprite.Width;
+                drawRectangle.Height = currentSprite.Height;
             }
 
             base.Update(gameTime);
