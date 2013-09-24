@@ -16,6 +16,7 @@ namespace ProgrammingAssignment2
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+        //Windwos dimensions as constants
         const int WINDOW_WIDTH = 800;
         const int WINDOW_HEIGHT = 600;
 
@@ -140,7 +141,6 @@ namespace ProgrammingAssignment2
                 drawRectangle.Y = rand.Next(0, (graphics.PreferredBackBufferHeight - currentSprite.Height));
 
                 // STUDENTS: set the drawRectangle.Width and drawRectangle.Height to match the width and height of currentSprite
-                //drawRectangle = new Rectangle(100,100, currentSprite.Width, currentSprite.Height);
                 drawRectangle.Width = currentSprite.Width;
                 drawRectangle.Height = currentSprite.Height;
             }
