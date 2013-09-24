@@ -1,0 +1,2 @@
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2Content\obj\x86\Debug\ProgrammingAssignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2Content\obj\x86\Debug\ProgrammingAssignment2Content.contentprojResolveAssemblyReference.cache

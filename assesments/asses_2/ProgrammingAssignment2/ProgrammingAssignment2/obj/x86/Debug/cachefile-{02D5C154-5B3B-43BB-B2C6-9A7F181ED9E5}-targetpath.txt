@@ -1,0 +1,5 @@
+Content\bruce_png.xnb
+Content\cow.xnb
+Content\eleph.xnb
+Content\star.xnb
+Content\surprise.xnb

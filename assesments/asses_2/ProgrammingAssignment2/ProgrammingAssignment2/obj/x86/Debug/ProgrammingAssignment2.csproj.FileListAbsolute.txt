@@ -1,0 +1,17 @@
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\bruce_png.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\cow.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\eleph.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\star.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\surprise.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
