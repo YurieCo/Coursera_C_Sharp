@@ -1,4 +1,4 @@
-This is the repository for the Beginning Game Programming with C# course from Coursera:
+This is my repository for the Beginning Game Programming with C# course from Coursera:
 
 https://www.coursera.org/course/gameprogramming
 by Dr. Tim "Dr. T" Chamillard
