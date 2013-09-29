@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab4</name>
+    </assembly>
+    <members>
+        <member name="T:Lab4.Deck">
+            <summary>
+            Provides a class for a deck of cards
+            </summary>
+        </member>
+        <member name="M:Lab4.Deck.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Lab4.Deck.Cut(System.Int32)">
+            <summary>
+            Cuts the deck of cards at the given location
+            </summary>
+            <param name="location">the location at which to cut the deck</param>
+        </member>
+        <member name="M:Lab4.Deck.Shuffle">
+            <summary>
+            Shuffles the deck
+            
+            Reference: http://download.oracle.com/javase/1.5.0/docs/api/java/util/Collections.html#shuffle%28java.util.List%29
+            </summary>
+        </member>
+        <member name="M:Lab4.Deck.TakeTopCard">
+            <summary>
+            Takes the top card from the deck. If the deck is empty, returns null
+            </summary>
+            <returns>the top card</returns>
+        </member>
+        <member name="M:Lab4.Deck.Print">
+            <summary>
+            Prints the contents of the deck
+            </summary>
+        </member>
+        <member name="P:Lab4.Deck.Empty">
+            <summary>
+            Gets whether the deck is empty
+            </summary>
+        </member>
+        <member name="T:Lab4.Rank">
+            <summary>
+            An enumeration for card ranks
+            </summary>
+        </member>
+        <member name="T:Lab4.Suit">
+            <summary>
+            An enumeration for card suits
+            </summary>
+        </member>
+        <member name="T:Lab4.Card">
+            <summary>
+            A class for a playing card
+            </summary>
+        </member>
+        <member name="M:Lab4.Card.#ctor(System.String,System.String)">
+            <summary>
+            Constructs a card with the given rank and suit
+            </summary>
+            <param name="rank">the rank</param>
+            <param name="suit">the suit</param>
+        </member>
+        <member name="M:Lab4.Card.FlipOver">
+            <summary>
+            Flips the card over
+            </summary>
+        </member>
+        <member name="P:Lab4.Card.Rank">
+            <summary>
+            Gets the card rank
+            </summary>
+        </member>
+        <member name="P:Lab4.Card.Suit">
+            <summary>
+            Gets the card suit
+            </summary>
+        </member>
+        <member name="P:Lab4.Card.FaceUp">
+            <summary>
+            Gets whether or not the card is face up
+            </summary>
+        </member>
+    </members>
+</doc>

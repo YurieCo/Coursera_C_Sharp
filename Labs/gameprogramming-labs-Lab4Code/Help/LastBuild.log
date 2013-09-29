@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder GUI" version="1.7.0.0" projectFile="C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Lab4.shfb" started="2/3/2011 8:11:57 AM">
+<buildStep step="Initializing">
+</buildStep>
+<buildStep step="FindingTools">
+Finding tools...
+Found Sandcastle in 'C:\Program Files (x86)\Sandcastle\'
+Found HTML 1.x help compiler in 'C:\Program Files (x86)\HTML Help Workshop\'
+</buildStep>
+<buildStep step="ValidatingAssemblies">
+Validating and copying documentation assembly information...
+    C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.exe -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Lab4.exe
+    C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.xml -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Lab4.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+    Last step completed in 00:00:00.0050
+</buildStep>
+<buildStep step="CopyDependencies">
+Copying documentation assembly dependencies...
+No dependencies to copy
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0020
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\GenerateRefInfo.bat]
+MrefBuilder (v2.4.10520.1)
+Copyright c Microsoft 2006
+Info: Loaded 1 assemblies for reflection and 0 dependency assemblies.
+Info: Wrote information on 1 namespaces, 5 types, and 34 members
+        1 file(s) copied.
+XslTransform (v2.4.10520.1)
+Copyright c Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Program Files (x86)\Sandcastle\ProductionTransforms\MergeDuplicates.xsl'.
+    Last step completed in 00:00:01.6341
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0030
+</buildStep>
+<buildStep step="ApplyVisibilityProperties">
+Applying visibility properties to reflection information file
+    0 attribute nodes removed
+    0 explicit interface implementations removed
+    0 local and base class EII elements removed
+    27 inherited member elements removed
+    5 private members noted for removal
+    0 private types noted for removal
+    Removing previously noted unwanted APIs and elements
+    Last step completed in 00:00:00.0210
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\TransformManifest.bat]
+XslTransform (v2.4.10520.1)
+Copyright c Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Program Files (x86)\Sandcastle\ProductionTransforms\ApplyVSDocModel.xsl'.
+Info: Applying XSL transformation 'C:\Program Files (x86)\Sandcastle\ProductionTransforms\AddGuidFilenames.xsl'.
+XslTransform (v2.4.10520.1)
+Copyright c Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Program Files (x86)\Sandcastle\ProductionTransforms\ReflectionToManifest.xsl'.
+    Last step completed in 00:00:02.1441
+</buildStep>
+<buildStep step="ModifyHelpTopicFilenames">
+Modifying help topic filenames in reflection information file
+    No changes required
+    Last step completed in 00:00:00.0030
+</buildStep>
+<buildStep step="CopyStandardContent">
+Copying standard help content...
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\adm.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\adm.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\adm_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\adm_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\adm_dev.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\adm_dev.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\adm_dev_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\adm_dev_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\alert_caution.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\alert_caution.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\alert_note.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\alert_note.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\alert_security.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\alert_security.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\big_adm.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\big_adm.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\big_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\big_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\big_dev.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\big_dev.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\big_kw.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\big_kw.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\box.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\box.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\Caution.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\Caution.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\CFW.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\CFW.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\collall.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\collall.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\collapse.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\collapse.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\collapse_all.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\collapse_all.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\copycode.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\copycode.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\copycodeHighlight.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\copycodeHighlight.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\dev.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\dev.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\dev_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\dev_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\dropdown.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\dropdown.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\dropdownHover.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\dropdownHover.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\drpdown.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\drpdown.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\drpdown_orange.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\drpdown_orange.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\drpdown_orange_up.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\drpdown_orange_up.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\drpup.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\drpup.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\exp.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\exp.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\expall.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\expall.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\expand_all.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\expand_all.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\filter1a.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\filter1a.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\filter1c.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\filter1c.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\footer.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\footer.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\gradient.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\gradient.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\greencheck.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\greencheck.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\greychck.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\greychck.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\header_prev_next.jpg -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\header_prev_next.jpg
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\header_sql_tutorial_blank.jpg -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\header_sql_tutorial_blank.jpg
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\header_sql_tutorial_logo.GIF -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\header_sql_tutorial_logo.GIF
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw_adm.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw_adm.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw_adm_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw_adm_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw_adm_dev.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw_adm_dev.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw_adm_dev_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw_adm_dev_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw_dev.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw_dev.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\kw_dev_arch.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\kw_dev_arch.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\LastChild.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\LastChild.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\load.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\load.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\load_hover.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\load_hover.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\note.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\note.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pencil.GIF -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pencil.GIF
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privclass.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privclass.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privdelegate.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privdelegate.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privenum.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privenum.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privenumeration.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privenumeration.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privevent.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privevent.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privextension.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privextension.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privfield.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privfield.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privinterface.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privinterface.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privmethod.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privmethod.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privproperty.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privproperty.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\privstructure.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\privstructure.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protclass.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protclass.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protdelegate.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protdelegate.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protenum.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protenum.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protenumeration.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protenumeration.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protevent.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protevent.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protextension.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protextension.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protfield.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protfield.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protinterface.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protinterface.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protmethod.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protmethod.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protoperator.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protoperator.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protproperty.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protproperty.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\protstructure.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\protstructure.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubclass.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubclass.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubdelegate.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubdelegate.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubenum.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubenum.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubenumeration.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubenumeration.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubevent.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubevent.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubextension.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubextension.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubfield.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubfield.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubinterface.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubinterface.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubmethod.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubmethod.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\puboperator.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\puboperator.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubproperty.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubproperty.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\pubstructure.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\pubstructure.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\requirements1a.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\requirements1a.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\requirements1c.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\requirements1c.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\save.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\save.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\save_hover.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\save_hover.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\security.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\security.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\seealso1a.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\seealso1a.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\seealso1c.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\seealso1c.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\static.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\static.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\icons\xna.gif -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\icons\xna.gif
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\scripts\CheckboxMenu.js -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\scripts\CheckboxMenu.js
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\scripts\CommonUtilities.js -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\scripts\CommonUtilities.js
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\scripts\Dropdown.js -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\scripts\Dropdown.js
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\scripts\EventUtilities.js -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\scripts\EventUtilities.js
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\scripts\script_feedBack.js -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\scripts\script_feedBack.js
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\scripts\script_manifold.js -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\scripts\script_manifold.js
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\scripts\SplitScreen.js -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\scripts\SplitScreen.js
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\styles\Presentation.css -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\styles\Presentation.css
+C:\Program Files (x86)\Sandcastle\Presentation\vs2005\styles\Whidbey\presentation.css -&gt; C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\styles\Whidbey\presentation.css
+    Last step completed in 00:00:00.6830
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="MergeTablesOfContent">
+Merging conceptual and additional tables of content...
+    Last step completed in 00:00:00.0060
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    conceptual.config
+    Last step completed in 00:00:00.0090
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\sandcastle.config
+    No additional help attributes defined.  The 'HTML Help 2 Attributes' component was not added.
+    Last step completed in 00:00:00.0140
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\BuildReferenceTopics.bat]
+BuildAssembler (v2.4.10520.1)
+Copyright c Microsoft 2006
+Info: CopyFromFileComponent: Instantiating component.
+Info: CopyFromFileComponent: Loading data file 'C:\Program Files (x86)\Sandcastle\Presentation\vs2005\Transforms\skeleton.xml'.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Searching for files that match '*.xml'.
+Info: CopyFromIndexComponent: Searching for files that match 'reflection.xml'.
+Info: CopyFromIndexComponent: Indexed 170133 elements in 107 files.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: ForEachComponent: Instantiating component.
+Info: ForEachComponent: Loading subcomponents.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: ForEachComponent: Loaded 1 subcomponents.
+Info: ForEachComponent: Instantiating component.
+Info: ForEachComponent: Loading subcomponents.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: ForEachComponent: Loaded 1 subcomponents.
+Info: ForEachComponent: Instantiating component.
+Info: ForEachComponent: Loading subcomponents.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: ForEachComponent: Loaded 1 subcomponents.
+Info: IfThenComponent: Instantiating component.
+Info: SyntaxComponent: Instantiating component.
+Info: SyntaxComponent: Loaded 3 syntax generators.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Searching for files that match 'C:\Windows\Microsoft.NET\Framework\v2.0.50727\en\*.xml'.
+Info: CopyFromIndexComponent: Searching for files that match 'C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\*.xml'.
+Info: CopyFromIndexComponent: Searching for files that match 'C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\*.xml'.
+Info: CopyFromIndexComponent: Searching for files that match 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Lab4.xml'.
+Info: CopyFromIndexComponent: Indexed 81301 elements in 51 files.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: ForEachComponent: Instantiating component.
+Info: ForEachComponent: Loading subcomponents.
+Info: IfThenComponent: Instantiating component.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: ForEachComponent: Loaded 2 subcomponents.
+Info: CopyFromIndexComponent: Instantiating component.
+Info: CopyFromIndexComponent: Loaded 0 copy components.
+Info: ShowMissingComponent: Instantiating component.
+Info: ShowMissingComponent: 
+    [Sandcastle Help File Builder Components, version 1.7.0.0]
+    Show Missing Documentation Component. Copyright c 2006-2008, Eric Woodruff, All Rights Reserved
+    http://www.codeplex.com/SHFB
+Info: VersionInfoComponent: Instantiating component.
+Info: VersionInfoComponent: 
+    [Sandcastle Help File Builder Components, version 1.7.0.0]
+    Version Information Component. Copyright c 2006-2008, Eric Woodruff, All Rights Reserved
+    http://www.codeplex.com/SHFB
+Info: CodeBlockComponent: Instantiating component.
+Info: CodeBlockComponent: 
+    [Sandcastle Help File Builder Components, version 1.7.0.0]
+    Code Block Component. Copyright c 2006-2008, Eric Woodruff, All Rights Reserved.
+    Portions copyright (c) 2003, Jonathan de Halleux, All rights reserved.
+    http://www.codeplex.com/SHFB
+Info: TransformComponent: Instantiating component.
+Info: PostTransformComponent: Instantiating component.
+Info: PostTransformComponent: 
+    [Sandcastle Help File Builder Components, version 1.7.0.0]
+    Post-Transform Component. Copyright c 2006-2008, Eric Woodruff, All Rights Reserved
+    http://www.codeplex.com/SHFB
+Info: SharedContentComponent: Instantiating component.
+Info: SharedContentComponent: Searching for files that match 'C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\shared_content.xml'.
+Info: SharedContentComponent: Loading shared content file 'C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\shared_content.xml'.
+Info: SharedContentComponent: Found 1 files in C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\shared_content.xml.
+Info: SharedContentComponent: Searching for files that match 'C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\reference_content.xml'.
+Info: SharedContentComponent: Loading shared content file 'C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\reference_content.xml'.
+Info: SharedContentComponent: Found 1 files in C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\reference_content.xml.
+Info: SharedContentComponent: Searching for files that match 'C:\Program Files (x86)\Sandcastle\Presentation\shared\content\syntax_content.xml'.
+Info: SharedContentComponent: Loading shared content file 'C:\Program Files (x86)\Sandcastle\Presentation\shared\content\syntax_content.xml'.
+Info: SharedContentComponent: Found 1 files in C:\Program Files (x86)\Sandcastle\Presentation\shared\content\syntax_content.xml.
+Info: SharedContentComponent: Searching for files that match 'C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\feedback_content.xml'.
+Info: SharedContentComponent: Loading shared content file 'C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\feedBack_content.xml'.
+Info: SharedContentComponent: Found 1 files in C:\Program Files (x86)\Sandcastle\Presentation\vs2005\content\feedback_content.xml.
+Info: SharedContentComponent: Searching for files that match 'SharedBuilderContent.xml'.
+Info: SharedContentComponent: Loading shared content file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'roottopictitle' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'rootlink' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'runningheadertext' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'locationinformation' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'assemblynameandmodule' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'copycode' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'locale' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\SharedBuilderContent.xml'.
+Info: SharedContentComponent: Found 1 files in SharedBuilderContent.xml.
+Info: SharedContentComponent: Searching for files that match 'PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Loading shared content file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'header' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'footer' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'fb_alias' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'fb_product' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'fb_body' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'fb_send' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'fb_headerfeedback' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'feedback_alias' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'feedback_product' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Overriding shared content item 'feedback_body' with value in file 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\PresentationStyleBuilderContent.xml'.
+Info: SharedContentComponent: Found 1 files in PresentationStyleBuilderContent.xml.
+Info: SharedContentComponent: Loaded 580 shared content items.
+Info: ResolveReferenceLinksComponent2: Instantiating component.
+Info: ResolveReferenceLinksComponent2: Creating MSDN URL resolver.
+Info: ResolveReferenceLinksComponent2: Searching directory 'C:\Program Files (x86)\Sandcastle\Data\Reflection' for targets files of the form '*.xml'.
+Info: ResolveReferenceLinksComponent2: Searching directory 'C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working' for targets files of the form 'reflection.xml'.
+Info: ResolveReferenceLinksComponent2: Loaded 170133 reference targets.
+Info: SaveComponent: Instantiating component.
+Info: BuildAssembler: Building topic N:Lab4
+Info: BuildAssembler: Building topic T:Lab4.Card
+Info: BuildAssembler: Building topic AllMembers.T:Lab4.Card
+Info: BuildAssembler: Building topic Methods.T:Lab4.Card
+Info: BuildAssembler: Building topic Properties.T:Lab4.Card
+Info: BuildAssembler: Building topic M:Lab4.Card.#ctor(System.String,System.String)
+Info: BuildAssembler: Building topic P:Lab4.Card.FaceUp
+Info: BuildAssembler: Building topic M:Lab4.Card.FlipOver
+Info: BuildAssembler: Building topic P:Lab4.Card.Rank
+Info: BuildAssembler: Building topic P:Lab4.Card.Suit
+Info: BuildAssembler: Building topic T:Lab4.Deck
+Info: BuildAssembler: Building topic AllMembers.T:Lab4.Deck
+Info: BuildAssembler: Building topic Methods.T:Lab4.Deck
+Info: BuildAssembler: Building topic Properties.T:Lab4.Deck
+Info: BuildAssembler: Building topic M:Lab4.Deck.#ctor
+Info: BuildAssembler: Building topic M:Lab4.Deck.Cut(System.Int32)
+Info: BuildAssembler: Building topic P:Lab4.Deck.Empty
+Info: BuildAssembler: Building topic M:Lab4.Deck.Print
+Info: BuildAssembler: Building topic M:Lab4.Deck.Shuffle
+Info: BuildAssembler: Building topic M:Lab4.Deck.TakeTopCard
+Info: BuildAssembler: Building topic T:Lab4.Program
+Warn: ShowMissingComponent: Missing &lt;summary&gt; documentation for T:Lab4.Program
+Info: BuildAssembler: Building topic AllMembers.T:Lab4.Program
+Info: ShowMissingComponent: Auto-documenting constructor M:Lab4.Program.#ctor
+Info: BuildAssembler: Building topic M:Lab4.Program.#ctor
+Info: ShowMissingComponent: Auto-documenting constructor M:Lab4.Program.#ctor
+Info: BuildAssembler: Building topic T:Lab4.Rank
+Info: BuildAssembler: Building topic T:Lab4.Suit
+Info: Processed 25 topics
+    Last step completed in 00:00:33.2369
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContent">
+Generating intermediate table of content file...
+[C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\GenerateIntermediateTOC.bat]
+XslTransform (v2.4.10520.1)
+Copyright c Microsoft 2005-2006
+Info: Applying XSL transformation 'C:\Program Files (x86)\Sandcastle\ProductionTransforms\CreateVSToc.xsl'.
+    Last step completed in 00:00:00.4270
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for Help 1.x and/or website...
+[C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\ExtractHtmlInfo.bat]
+Sandcastle Help File Builder HTML Extract, version 1.7.0.0
+Copyright c 2008, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID '1033', code page '65001', encoding charset 'UTF-8'.
+Processed 25 HTML files
+Sorting keywords and generating See Also indices
+Saving Help 1.x keyword index to C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Lab 4 Help.hhk
+Saving Help 1.x table of content to C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Lab 4 Help.hhc
+    Last step completed in 00:00:00.3440
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContent">
+Generating HTML Help 1.x table of content file...
+    Last step completed in 00:00:00.0030
+</buildStep>
+<buildStep step="UpdateTableOfContent">
+Updating table of content with additional content items and determining default topic...
+    Last step completed in 00:00:00.0050
+</buildStep>
+<buildStep step="GenerateHelpFileIndex">
+Generating HTML Help 1.x index file...
+    Last step completed in 00:00:00.0030
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Generating HTML Help 1.x project file...
+    Last step completed in 00:00:00.0050
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Compiling HTML Help 1.x file...
+[C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Build1xHelpFile.bat]
+Microsoft HTML Help Compiler 4.74.8702
+
+
+
+Compiling c:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\Lab 4 Help.chm
+
+
+
+
+
+Compile time: 0 minutes, 2 seconds
+
+27	Topics
+
+309	Local links
+
+31	Internet links
+
+0	Graphics
+
+
+
+
+
+Created c:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\Help\Working\Output\Lab 4 Help.chm, 108,563 bytes
+
+Compression decreased file by 359,015 bytes.
+
+    Last step completed in 00:00:03.5102
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.0380
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully.  Total time: 00:00:42.2174
+
+</buildStep>
+</shfbBuild>

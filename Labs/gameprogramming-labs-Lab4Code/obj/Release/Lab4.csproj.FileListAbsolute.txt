@@ -1,0 +1,20 @@
+C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.exe
+C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.pdb
+C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\Lab4.exe
+C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\Lab4.pdb
+C:\Courses\GDD 1200\Spring 2011\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.xml
+C:\Courses\GDD 1200\Spring 2012\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\Lab4.exe
+C:\Courses\GDD 1200\Spring 2012\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\Lab4.pdb
+C:\Courses\GDD 1200\Spring 2012\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.exe
+C:\Courses\GDD 1200\Spring 2012\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.pdb
+C:\Courses\GDD 1200\Spring 2012\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.xml
+C:\Courses\GDD 1200\Spring 2012\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\ResolveAssemblyReference.cache
+D:\Courses\GDD 1200\Spring 2013\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\Lab4.exe
+D:\Courses\GDD 1200\Spring 2013\Labs\Lab 4 Classes and Objects\Lab4Code\obj\Release\Lab4.pdb
+D:\Courses\GDD 1200\Spring 2013\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.exe
+D:\Courses\GDD 1200\Spring 2013\Labs\Lab 4 Classes and Objects\Lab4Code\bin\Debug\Lab4.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\various\gameprogramming-labs-Lab4Code\obj\Release\Lab4.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\various\gameprogramming-labs-Lab4Code\obj\Release\Lab4.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\various\gameprogramming-labs-Lab4Code\bin\Debug\Lab4.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\various\gameprogramming-labs-Lab4Code\bin\Debug\Lab4.pdb
