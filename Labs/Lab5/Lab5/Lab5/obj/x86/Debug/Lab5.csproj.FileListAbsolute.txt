@@ -1,0 +1,8 @@
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\bin\x86\Debug\Lab5.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\bin\x86\Debug\Lab5.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\obj\x86\Debug\Lab5.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\bin\x86\Debug\Content\bruce_png.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\bin\x86\Debug\Content\eleph.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab5\Lab5\Lab5\bin\x86\Debug\Content\star.xnb

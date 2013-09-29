@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5", "Lab5\Lab5\Lab5.csproj", "{EE7AACF0-0011-40E9-86AF-C9290B648921}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Lab5Content", "Lab5\Lab5Content\Lab5Content.contentproj", "{1D31F3CA-BE23-4E09-BC7F-391785AC84D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DF793CEE-1E9A-43AE-B59B-DB4F45D067FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7AACF0-0011-40E9-86AF-C9290B648921}.Debug|x86.ActiveCfg = Debug|x86
+		{EE7AACF0-0011-40E9-86AF-C9290B648921}.Debug|x86.Build.0 = Debug|x86
+		{EE7AACF0-0011-40E9-86AF-C9290B648921}.Release|x86.ActiveCfg = Release|x86
+		{EE7AACF0-0011-40E9-86AF-C9290B648921}.Release|x86.Build.0 = Release|x86
+		{1D31F3CA-BE23-4E09-BC7F-391785AC84D4}.Debug|x86.ActiveCfg = Debug|x86
+		{1D31F3CA-BE23-4E09-BC7F-391785AC84D4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
