@@ -1,0 +1,2 @@
+Content\teddybear0.xnb
+Content\teddybear1.xnb

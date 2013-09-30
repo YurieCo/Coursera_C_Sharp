@@ -1,0 +1,8 @@
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\bin\x86\Debug\Content\teddybear0.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\bin\x86\Debug\Content\teddybear1.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\bin\x86\Debug\Lab6.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\bin\x86\Debug\Lab6.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\obj\x86\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab6\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
