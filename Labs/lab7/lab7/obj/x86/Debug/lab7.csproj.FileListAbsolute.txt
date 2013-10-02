@@ -1,0 +1,4 @@
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\lab7\lab7\obj\x86\Debug\lab7.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\lab7\lab7\obj\x86\Debug\lab7.pdb
