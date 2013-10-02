@@ -15,3 +15,5 @@
 /tmp
 /various
 .DS_Store
+*.jpg
+*.png

@@ -9,25 +9,26 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //prompt and read gamertag
-            Console.Write("Enter gamertag: ");
-            string gamertag = Console.ReadLine();
+            Console.Write("pick up? y/n? ");
+            char answer = Console.ReadLine()[0];
 
-            //prompt and read level
-            Console.Write("ENTER LEVEL: ");
-            int level = int.Parse(Console.ReadLine());
+            //print ,message
+            switch (answer)
+            {
+                case 'y':
+                case 'Y':
+                    Console.WriteLine("yea");
+                    break;
+                case 'n':
+                case 'N':
+                    Console.WriteLine("nope");
+                    break;
+                default:
+                    Console.WriteLine("oh...");
+                    break;
+            }
 
-
-            //extract first char of gamertag
-            char firstGamertagChar = gamertag[0];
-
-
-
-            //print valuues
-            Console.WriteLine();
-            Console.WriteLine("gamertag: " + gamertag);
-            Console.WriteLine("Level: " + level);
-            Console.WriteLine("first gamertag char: " + firstGamertagChar);
+            //print
             Console.WriteLine();
         }
     }
