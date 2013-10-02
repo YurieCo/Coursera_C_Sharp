@@ -1,0 +1,6 @@
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_3\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_3\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ProgrammingAssignment3.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_3\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\ConsoleCards.dll
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
