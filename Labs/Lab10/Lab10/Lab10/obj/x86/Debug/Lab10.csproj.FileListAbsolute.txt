@@ -1,0 +1,10 @@
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\bin\x86\Debug\Content\teddybear0.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\bin\x86\Debug\Content\teddybear1.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\bin\x86\Debug\Lab10.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\bin\x86\Debug\Lab10.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\bin\x86\Debug\ExplodingTeddies.dll
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\obj\x86\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\obj\x86\Debug\Lab10.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\obj\x86\Debug\Lab10.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\Labs\Lab10\Lab10\Lab10\bin\x86\Debug\Content\explosion.xnb
