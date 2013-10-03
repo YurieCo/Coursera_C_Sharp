@@ -1,0 +1,7 @@
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\solution\GameProject\GameProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache

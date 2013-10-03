@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-31T16:34:00.4619438-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

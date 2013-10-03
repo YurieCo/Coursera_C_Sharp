@@ -1,0 +1,43 @@
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\solution\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\solution\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\solution\GameProject\GameProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\solution\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\solution\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\solution\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignments 8 9 10\blackboard\code\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\bin\x86\Debug\Content\openingscreen.xnb
