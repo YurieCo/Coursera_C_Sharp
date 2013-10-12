@@ -102,7 +102,8 @@ namespace ProgrammingAssignment4
         public void Draw(SpriteBatch spriteBatch)
         {
             // STUDENTS: DRAW THE SQUARE SPRITE
- 
+            spriteBatch.Draw(squareSprite, drawRectangle, Color.White);
+
             // STUDENTS: IF THE SQUARE HOLDS AN X, DRAW THE X SPRITE
             // OTHERWISE, IF THE SQUARE HOLDS AN O, DRAW THE O SPRITE
         }

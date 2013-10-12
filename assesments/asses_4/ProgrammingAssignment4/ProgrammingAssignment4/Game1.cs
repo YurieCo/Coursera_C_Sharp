@@ -20,6 +20,7 @@ namespace ProgrammingAssignment4
         SpriteBatch spriteBatch;
 
         // STUDENTS: DECLARE BOARD AND QUIT BUTTON VARIABLES HERE
+        Board board;
 
         // game state and turn tracking
         static GameState gameState = GameState.Play;
@@ -62,6 +63,7 @@ namespace ProgrammingAssignment4
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // STUDENTS: CREATE THE BOARD OBJECT HERE, MAKING SURE THE BOARD IS CENTERED IN THE WINDOW
+            board = new Board(Content, 0, 0);
 
             // STUDENTS: CREATE QUIT BUTTON HERE, CENTERED HORIZONTALLY AND WITH A REASONABLE SPACE ABOVE THE BOTTOM OF THE WINDOW
 
@@ -133,6 +135,10 @@ namespace ProgrammingAssignment4
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // STUDENTS: DRAW THE BOARD HERE. IF gameState IS GameState.GameOver, DRAW THE QUIT BUTTON ALSO
+            spriteBatch.Begin();
+            board.Draw(spriteBatch);
+
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }
