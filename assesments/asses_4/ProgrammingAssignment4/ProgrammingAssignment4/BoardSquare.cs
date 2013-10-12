@@ -81,18 +81,18 @@ namespace ProgrammingAssignment4
             // STUDENTS: IF THE MOUSE IS OVER THE SQUARE, THE LEFT MOUSE BUTTON IS PRESSED
             // AND THE SQUARE CONTENTS IS EMPTY CHANGE THE CONTENTS TO HOLD AN X AND RETURN true. 
             // OTHERWISE, RETURN false
-            // if (<students add Boolean expression here>)
-            // {
-            //     <students add code here>
-            //     return true;
-            // }
-            // else
-            // {
-            //     return false;
-            // }
+             if (drawRectangle.Contains(mouse.X, mouse.Y) && this.Empty && mouse.LeftButton == ButtonState.Pressed)
+             {
+                 contents = SquareContents.X;
+                 return true;
+             }
+             else
+             {
+                 return false;
+             }
 
             // STUDENTS: REMOVE THE LINE BELOW AFTER UNCOMMENTING AND COMPLETING THE CODE ABOVE
-            return false;
+            //return false;
         }
 
         /// <summary>
@@ -105,7 +105,15 @@ namespace ProgrammingAssignment4
             spriteBatch.Draw(squareSprite, drawRectangle, Color.White);
 
             // STUDENTS: IF THE SQUARE HOLDS AN X, DRAW THE X SPRITE
+            if (contents == SquareContents.X)
+            {
+                spriteBatch.Draw(xSprite, drawRectangle, Color.White);
+            }
             // OTHERWISE, IF THE SQUARE HOLDS AN O, DRAW THE O SPRITE
+            else if (contents == SquareContents.O)
+            {
+                spriteBatch.Draw(oSprite, drawRectangle, Color.White);
+            }
         }
 
 

@@ -100,6 +100,7 @@ namespace ProgrammingAssignment4
                 {
                     // STUDENTS: IF IT'S THE PLAYER'S TURN, LET THE PLAYER TAKE A TURN
                     // SAVE THE BOOLEAN VALUE THE METHOD RETURNS FOR USE IN THE NEXT STEP
+                    bool playerTurn = board.TakePlayerTurn(mouse);
 
                     // STUDENTS: IF THE PLAYER TOOK A TURN, CHANGE WHOSE TURN IT IS
                     //if (<students add Boolean expression here>)
