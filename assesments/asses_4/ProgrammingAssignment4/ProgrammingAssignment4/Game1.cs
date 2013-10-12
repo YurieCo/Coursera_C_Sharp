@@ -121,6 +121,7 @@ namespace ProgrammingAssignment4
             else if (gameState == GameState.GameOver)
             {
                 // STUDENTS: THE GAME IS OVER, SO UPDATE THE QUIT BUTTON
+                quitButton.Update(mouse);
             }
             else
             {
