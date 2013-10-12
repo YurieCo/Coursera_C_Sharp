@@ -1,0 +1,8 @@
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignment 4\solution\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignment 4\stepbystep\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2011\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2012\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ProgrammingAssignment4Content.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 4\Materials\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ProgrammingAssignment4Content.contentprojResolveAssemblyReference.cache
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\asses_4\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\ProgrammingAssignment4Content.contentprojResolveAssemblyReference.cache

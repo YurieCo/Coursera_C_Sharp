@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>o.png</Source>
+      <Name>o</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\o.xnb</Output>
+      <Time>2011-03-02T18:54:26.2819778-07:00</Time>
+    </Item>
+    <Item>
+      <Source>square.png</Source>
+      <Name>square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\square.xnb</Output>
+      <Time>2011-03-02T18:54:26.2839779-07:00</Time>
+    </Item>
+    <Item>
+      <Source>x.png</Source>
+      <Name>x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\x.xnb</Output>
+      <Time>2011-03-02T18:54:26.2799777-07:00</Time>
+    </Item>
+    <Item>
+      <Source>quitbutton.png</Source>
+      <Name>quitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\quitbutton.xnb</Output>
+      <Time>2011-03-03T09:16:58.0692192-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 4\blackboard\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-31T16:34:00.4619438-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

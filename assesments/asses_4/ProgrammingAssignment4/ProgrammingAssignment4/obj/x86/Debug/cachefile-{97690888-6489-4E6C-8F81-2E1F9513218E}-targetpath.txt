@@ -1,0 +1,4 @@
+Content\o.xnb
+Content\square.xnb
+Content\x.xnb
+Content\quitbutton.xnb
