@@ -28,6 +28,7 @@ namespace GameProject
         // Increment 1: opening screen fields
         Texture2D openingScreen;
         Rectangle drawRectangle0;
+        NumberBoard numberBoard;
 
         // Increment 2: the board
 
