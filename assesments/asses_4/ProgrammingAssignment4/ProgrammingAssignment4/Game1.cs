@@ -103,10 +103,10 @@ namespace ProgrammingAssignment4
                     bool playerTurn = board.TakePlayerTurn(mouse);
 
                     // STUDENTS: IF THE PLAYER TOOK A TURN, CHANGE WHOSE TURN IT IS
-                    //if (<students add Boolean expression here>)
-                    //{
-                    //    ChangeTurn();
-                    //}
+                    if (playerTurn)
+                    {
+                        ChangeTurn();
+                    }
                 }
                 else
                 {
