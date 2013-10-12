@@ -24,6 +24,7 @@ namespace ProgrammingAssignment4
 
         // STUDENTS: DECLARE BOARD AND QUIT BUTTON VARIABLES HERE
         Board board;
+        QuitButton quitButton;
 
         // game state and turn tracking
         static GameState gameState = GameState.Play;
@@ -69,6 +70,7 @@ namespace ProgrammingAssignment4
             board = new Board(Content, WINDOW_WIDTH/2, WINDOW_HEIGHT/2);
 
             // STUDENTS: CREATE QUIT BUTTON HERE, CENTERED HORIZONTALLY AND WITH A REASONABLE SPACE ABOVE THE BOTTOM OF THE WINDOW
+            quitButton = new QuitButton(Content, WINDOW_WIDTH / 2, WINDOW_HEIGHT / 2, GameState.Quit);
 
         }
 
@@ -128,6 +130,11 @@ namespace ProgrammingAssignment4
 
             // STUDENTS: IF THE GAME IS OVER AND GAME STATE IS GameState.Play, MAKE THE QUIT 
             // BUTTON VISIBLE AND CHANGE gameState TO GameState.GameOver
+            if (board.GameOver() && gameState == GameState.Play)
+            {
+                quitButton.Visible = true;
+                gameState = GameState.GameOver;
+            }
 
             base.Update(gameTime);
         }
@@ -143,6 +150,11 @@ namespace ProgrammingAssignment4
             // STUDENTS: DRAW THE BOARD HERE. IF gameState IS GameState.GameOver, DRAW THE QUIT BUTTON ALSO
             spriteBatch.Begin();
             board.Draw(spriteBatch);
+
+            if (gameState == GameState.GameOver)
+            {
+                quitButton.Draw(spriteBatch);
+            }
 
             spriteBatch.End();
 
