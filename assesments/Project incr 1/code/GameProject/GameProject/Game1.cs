@@ -109,8 +109,11 @@ namespace GameProject
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // Increments 1 and 2: draw appropriate items here
-            spriteBatch.Begin();
-            spriteBatch.Draw(openingScreen, drawRectangle0, Color.White);
+            if (gameState == GameState.Menu)
+            {
+                spriteBatch.Begin();
+                spriteBatch.Draw(openingScreen, drawRectangle0, Color.White);
+            }
 
             spriteBatch.End();
 
