@@ -16,6 +16,9 @@ namespace ProgrammingAssignment4
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
+        const int WINDOW_WIDTH = 800;
+        const int WINDOW_HEIGHT = 600;
+
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
@@ -34,8 +37,8 @@ namespace ProgrammingAssignment4
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
-            graphics.PreferredBackBufferWidth = 800;
-            graphics.PreferredBackBufferHeight = 600;
+            graphics.PreferredBackBufferWidth = WINDOW_WIDTH;
+            graphics.PreferredBackBufferHeight = WINDOW_HEIGHT;
 
             IsMouseVisible = true;
         }
@@ -63,7 +66,7 @@ namespace ProgrammingAssignment4
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // STUDENTS: CREATE THE BOARD OBJECT HERE, MAKING SURE THE BOARD IS CENTERED IN THE WINDOW
-            board = new Board(Content, 0, 0);
+            board = new Board(Content, WINDOW_WIDTH/2, WINDOW_HEIGHT/2);
 
             // STUDENTS: CREATE QUIT BUTTON HERE, CENTERED HORIZONTALLY AND WITH A REASONABLE SPACE ABOVE THE BOTTOM OF THE WINDOW
 

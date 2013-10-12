@@ -42,8 +42,8 @@ namespace ProgrammingAssignment4
             // STUDENTS: ADD CODE HERE TO SET THE DRAW RECTANGLE X AND Y PROPERTIES
             // TO CENTER THE SQUARE AT THE GIVEN X AND Y. REPLACE THE 0s BELOW WITH 
             // THE APPROPRIATE EQUATIONS
-            drawRectangle.X = 0;
-            drawRectangle.Y = 0;
+            drawRectangle.X = x - drawRectangle.Width / 2;
+            drawRectangle.Y = y - drawRectangle.Height / 2;
         }
 
         #endregion

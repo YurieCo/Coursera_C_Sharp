@@ -36,8 +36,8 @@ namespace ProgrammingAssignment4
 
             // STUDENTS: CALCULATE THE X AND Y OF THE TOP LEFT CORNER OF THE BOARD
             // REPLACE THE 0s BELOW WITH THE APPROPRIATE EQUATIONS
-            int leftX = 0;
-            int topY = 0;
+            int leftX = x - 3*sideLength/2;
+            int topY = y - 3 * sideLength / 2;
 
             // build board squares and add to array
             for (int row = 0; row < board.GetLength(0); row++)
