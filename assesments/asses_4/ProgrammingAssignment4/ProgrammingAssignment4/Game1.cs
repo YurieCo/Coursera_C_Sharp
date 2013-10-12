@@ -111,6 +111,8 @@ namespace ProgrammingAssignment4
                 else
                 {
                     // STUDENTS: HAVE THE COMPUTER PLAYER TAKE A TURN AND CHANGE WHOSE TURN IT IS
+                    computer.TakeTurn(board);
+                    ChangeTurn();
                 }
 
             }
