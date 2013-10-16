@@ -47,7 +47,7 @@ namespace GameProject
         {
             // load content for the board and create draw rectangle *** STEP 16 ***
             LoadContent(contentManager);
-            drawRectangle = new Rectangle((int)(center.X - sideLength / 2), (int)(center.Y - sideLength / 2), sideLength, sideLength);
+            drawRectangle = new Rectangle((int)center.X - sideLength / 2, (int)center.Y - sideLength / 2, sideLength, sideLength);
 
             // calculate side length for number tiles  *** STEP 16 ***
             tileSideLength = (sideLength - 4 * BORDER_SIZE) / 3;
@@ -83,8 +83,9 @@ namespace GameProject
         public void Draw(SpriteBatch spriteBatch)
         {
             // draw the board ** STEP 17 **
+            spriteBatch.Begin();
             spriteBatch.Draw(boardTexture, drawRectangle, Color.White);
-
+            //spriteBatch.End();
             // draw all the number tiles
             
         }

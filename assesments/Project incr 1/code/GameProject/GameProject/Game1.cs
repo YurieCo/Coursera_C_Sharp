@@ -109,7 +109,11 @@ namespace GameProject
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            // Increment 2: change game state if game state is GameState.Menu and user presses Enter
+            // Increment 2: change game state if game state is GameState.Menu and user presses Enter **STEP 18 **
+            if (gameState == GameState.Menu && Keyboard.GetState().IsKeyDown(Keys.Enter))
+            {
+                gameState = GameState.Play;
+            }
 
             // if we're actually playing, update mouse state and update board
 
@@ -130,7 +134,11 @@ namespace GameProject
                 spriteBatch.Begin();
                 spriteBatch.Draw(openingScreen, openingScreenRectangle0, Color.White);
             }
-
+            // ** STEP 19 **
+            else if (gameState == GameState.Play)
+            {
+                numberBoard.Draw(spriteBatch);
+            }
             spriteBatch.End();
 
             base.Draw(gameTime);
