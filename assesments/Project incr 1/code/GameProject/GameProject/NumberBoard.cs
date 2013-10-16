@@ -45,9 +45,12 @@ namespace GameProject
         public NumberBoard(ContentManager contentManager, Vector2 center, int sideLength, 
             int correctNumber, SoundBank soundBank)
         {
-            // load content for the board and create draw rectangle
+            // load content for the board and create draw rectangle *** STEP 16 ***
+            LoadContent(contentManager);
+            drawRectangle = new Rectangle((int)(center.X - sideLength / 2), (int)(center.Y - sideLength / 2), sideLength, sideLength);
 
-            // calculate side length for number tiles
+            // calculate side length for number tiles  *** STEP 16 ***
+            tileSideLength = (sideLength - 4 * BORDER_SIZE) / 3;
 
             // initialize array of number tiles
 
@@ -79,7 +82,8 @@ namespace GameProject
         /// <param name="spriteBatch">the SpriteBatch to use for the drawing</param>
         public void Draw(SpriteBatch spriteBatch)
         {
-            // draw the board
+            // draw the board ** STEP 17 **
+            spriteBatch.Draw(boardTexture, drawRectangle, Color.White);
 
             // draw all the number tiles
             
@@ -95,7 +99,8 @@ namespace GameProject
         /// <param name="contentManager">the content manager</param>
         private void LoadContent(ContentManager contentManager)
         {
-            // load the background for the board
+            // load the background for the board  *** STEP 15 ***
+            boardTexture = contentManager.Load<Texture2D>("board");
 
         }
 

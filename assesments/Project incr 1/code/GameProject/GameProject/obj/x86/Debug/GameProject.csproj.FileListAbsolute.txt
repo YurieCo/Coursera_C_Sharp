@@ -41,3 +41,4 @@ C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject
 C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\obj\x86\Debug\GameProject.exe
 C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
 C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\bin\x86\Debug\Content\openingscreen.xnb
+C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\bin\x86\Debug\Content\board.xnb

@@ -27,10 +27,16 @@ namespace GameProject
 
         // Increment 1: opening screen fields
         Texture2D openingScreen;
-        Rectangle drawRectangle0;
-        NumberBoard numberBoard;
+        Rectangle openingScreenRectangle0;
+        
 
         // Increment 2: the board
+        NumberBoard numberBoard;
+
+        //vector2 need for board creation
+        Vector2 center;
+        //float xVal = WINDOW_WIDTH / 2;
+        //float yVal = WINDOW_HEIGHT / 2;
 
         public Game1()
         {
@@ -38,8 +44,8 @@ namespace GameProject
             Content.RootDirectory = "Content";
 
             // Increment 1: set window resolution
-            graphics.PreferredBackBufferWidth = 800;
-            graphics.PreferredBackBufferHeight = 600;
+            graphics.PreferredBackBufferWidth = WINDOW_WIDTH;
+            graphics.PreferredBackBufferHeight = WINDOW_HEIGHT;
 
             // Increment 1: make the mouse visible
             this.IsMouseVisible = true;
@@ -69,9 +75,18 @@ namespace GameProject
 
             // Increment 1: load opening screen and set opening screen draw rectangle
             openingScreen = Content.Load<Texture2D>("openingscreen");
-            drawRectangle0 = new Rectangle(0, 0, WINDOW_WIDTH, WINDOW_HEIGHT);
+            openingScreenRectangle0 = new Rectangle(0, 0, WINDOW_WIDTH, WINDOW_HEIGHT);
 
             // Increment 2: create the board object (this will be moved before you're done with the project)
+            // find vector2 and center x,y
+            //center = new Vector2(xVal,yVal);
+            center = new Vector2(graphics.PreferredBackBufferWidth/2 , graphics.PreferredBackBufferHeight/2);
+
+            //create numberboard
+            //numberBoard = new NumberBoard(Content, center, WINDOW_WIDTH, 8, null);
+            numberBoard = new NumberBoard(Content, center, (int)(graphics.PreferredBackBufferHeight * 0.8),8,null);
+
+            
         }
 
         /// <summary>
@@ -113,7 +128,7 @@ namespace GameProject
             if (gameState == GameState.Menu)
             {
                 spriteBatch.Begin();
-                spriteBatch.Draw(openingScreen, drawRectangle0, Color.White);
+                spriteBatch.Draw(openingScreen, openingScreenRectangle0, Color.White);
             }
 
             spriteBatch.End();

@@ -10,6 +10,15 @@
       <Output>C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\bin\x86\Debug\Content\openingscreen.xnb</Output>
       <Time>2013-10-04T00:37:16.3401875+03:00</Time>
     </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Afentiko\Dropbox\Coursera\C#\assesments\Project incr 1\code\GameProject\GameProject\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2013-10-14T08:40:43.0962006+03:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{E6074EDA-A304-44D3-89E6-335DDF19504A}</ContentProjectGUID>
